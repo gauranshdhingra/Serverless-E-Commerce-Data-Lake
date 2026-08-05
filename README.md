@@ -252,7 +252,7 @@ CWS_Ecommerce_Project/
 ### 1. Installation & Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/BhavyaGoyal-170/serverless-ecommerce-datalake.git
+git clone https://github.com/gauranshdhingra/serverless-ecommerce-datalake.git
 cd serverless-ecommerce-datalake
 
 # Install local dependencies
@@ -277,6 +277,6 @@ python src/generator/dataset_generator.py 1
 
 ## 👤 Author & Credits
 
-- **Author**: Bhavya (23/IT/042)
+- **Author**: Gauransh Dhingra (23/IT/057)
 - **Project Title**: Enterprise Serverless Data Lake for E-Commerce Analytics
 - **Timeline**: June 2026 – Present
