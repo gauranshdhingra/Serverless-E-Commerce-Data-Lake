@@ -1,6 +1,6 @@
 -- =============================================================================
 -- Enterprise Serverless Data Lake - Athena Master CTAS Transformation Query
--- Author: Bhavya (23/IT/042)
+-- Author: Gauransh (23/IT/057)
 --
 -- Target: Creates a Snappy-compressed Apache Parquet table in the S3 Curated Zone
 -- Features:
