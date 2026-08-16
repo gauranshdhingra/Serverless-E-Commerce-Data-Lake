@@ -1,7 +1,7 @@
 # Architecture & System Design Briefing
 
 **Project Title**: Enterprise Serverless Data Lake for E-Commerce Analytics  
-**Author**: Bhavya (23/IT/042)  
+**Author**: Gauransh (23/IT/057)  
 **Timeline**: June 2026 – Present  
 
 ---
